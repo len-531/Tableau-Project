@@ -2,7 +2,7 @@
 
 ## Dashboard
 
-![Netflix Dashboard](Dashboard Screenshot.png)
+(Dashboard Screenshot.png)
 
 ## Abstract
 
