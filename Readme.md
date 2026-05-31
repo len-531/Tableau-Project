@@ -1,9 +1,5 @@
 # Netflix Dashboard Analysis
 
-## Dashboard
-
-![Netflix Dashboard](Dashboard Screenshot.png)
-
 ## Abstract
 
 This dashboard provides an overview of the Netflix library, highlights release year trends and rating distributions across movies and TV shows. 
